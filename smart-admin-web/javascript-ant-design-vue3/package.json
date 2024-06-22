@@ -31,6 +31,7 @@
     "lodash": "4.17.21",
     "lunar-javascript": "1.6.12",
     "mitt": "3.0.1",
+    "npm": "^10.7.0",
     "nprogress": "0.2.0",
     "pinia": "2.1.7",
     "sm-crypto": "0.3.13",
